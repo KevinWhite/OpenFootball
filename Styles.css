@@ -1,0 +1,173 @@
+.null {}
+
+BODY {font-family:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; line-height:16px; }
+TD, TH, P, TD.P, TH.P {font-family:Arial, Helvetica, sans-serif; color:#000000; font-size:12px; }
+
+A.opt {font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+.opt {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+
+A.opt2 {font-family: Arial, Helvetica, sans-serif; font-size: 11px;}
+.opt2 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; }
+
+A.rate1 {font-family: Arial, Helvetica, sans-serif; font-size: 15px;}
+.rate1 {font-family: Arial, Helvetica, sans-serif; font-size: 15px; }
+
+A.optwhite {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF;}
+.optwhite {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#FFFFFF; }
+
+A.optsel {font-family: Arial, Helvetica, sans-serif; font-size: 12px;color: #000000;}
+.optsel {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight:bold; text-decoration: none;}
+
+A.optsel2 {font-family: Arial, Helvetica, sans-serif; font-size: 11px;color: #000000;}
+.optsel2 {font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight:bold; text-decoration: none;}
+
+A.optselwhite {font-family: Arial, Helvetica, sans-serif; font-size: 12px;color: #FFFFFF;}
+.optselwhite {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight:bold; text-decoration: none;}
+
+A.TeamTableCoachLink {font-family: Arial, Helvetica, sans-serif; font-size: 20px; color:#FFFFFF;}
+.TeamTableCoachLink {font-family: Arial, Helvetica, sans-serif; font-size: 20px; color:#FFFFFF; }
+
+.pt {text-transform: uppercase; font-size:17px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:#cc0000; font-weight:bold;}
+
+.SLTables  TD, .SLTables TH {font-size:16px; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; }
+.SLTables2 TD {FONT-SIZE: 13px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.SLTables2 TH {FONT-SIZE: 13px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.SLTables1 TD {FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.SLTables1 TH {FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.TeamTable TD {FONT-SIZE: 20px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.TeamTable TH {FONT-SIZE: 20px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+
+
+/*
+.SLTables1 a:link, .SLTables2 a:link , .SLTables a:link  {color:#000099}
+*/
+
+.bg0 {background-color: #000a78; font-weight: bold; color:#FFFFFF;}
+.bg1 {background-color: #bcbcbc; }
+.bg2 {background-color: #f0f0f0; }
+.bg3 {background-color: #ffffff; }
+.bg4 {background-color: #e5e5e5; }
+.bg5 {background-color: #ffeccd; }
+.bgF {background-color: #D1EFE3;}
+.bgP {background-color: #FBFBE3;}
+.bgH {background-color: #E9DDC3;}
+.bg0font, .bg0font A, A.bg0font {color:#ffffff;}
+.boxLink, .boxLink A, A.boxLink {background-color: #f0f0f0;FONT-SIZE: 13px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+.whiteLink, .whiteLink A, A.whiteLink {background-color: #FFFFFF;FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif}
+
+.rrail {background-color:#e5e5e5; }
+
+/* team page html form pulldoen class */
+.dd {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif;}
+
+B.films {color:#CB0000;}
+
+.lnOn { text-transform: uppercase; background-color: #ffffff; border-color: #000066; border-width: 3; border-style: solid; border-bottom : White; }
+.lnOn A { text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height:12px; font-weight: bold; color: #000066; text-decoration: none ; }
+
+.ln, .ln A, .lnHdr, .ln2, .ln2 A { text-transform: uppercase; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height:12px; font-weight: bold; color: #FFFFFF; text-decoration: none ;}
+.ln, .ln A {background-color: #000066;}
+.ln2, .ln2 A {background-color: #CB0000;}
+.ln3, .ln A, .lnHdr, .ln2, .ln2 A { font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height:12px; font-weight: bold; color: #FFFFFF; text-decoration: none ;}
+.ln3, .ln A {background-color: #000066;}
+
+.head, .head A	{color:#000000; font-size: 22px;font-weight: bold;font-family: Arial, Helvetica, Geneva, sans-serif;}
+.head A {text-decoration: none;}
+
+.head2, .head2 A {color: #000000;font-size: 18px;font-weight: bold;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.head2 A {text-decoration: none;}
+
+.head2ul, .head2ul A {color: #000000;font-size: 18px;font-weight: bold;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.head2ul A {text-decoration: underline;}
+			
+.extra, .extra A {color: #30309E;font-size: 12px;font-weight: normal;font-family: Arial, Helvetica, Geneva, sans-serif;}
+.extra A    {text-decoration: underline;}
+
+.headlines, .headlines td, .headlines A	{color: #000000; font-size: 12px;font-family: Arial, Helvetica, Geneva, sans-serif;}
+.headlines A {color: #30309E; font-size: 12px;font-family: Arial, Helvetica, Geneva, sans-serif;}
+
+.lead, .lead TD  {color: #000000; font-size: 12px;line-height: 16px;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.lead A	     {color: #000A78;font-size: 12px;line-height: 16px;font-weight: normal;text-decoration: underline;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+
+.afc, .afc TD, .afc TH  {color: #FFFFFF; background-color:#b50023;}
+.nfc, .nfc TD, .nfc TH  {color: #FFFFFF; background-color:#004079;}
+
+.featbox, .featbox td, .featbox A	{color: #FFFFFF; font-size: 12px;font-family: Arial, Helvetica, Geneva, sans-serif;}
+.featbox A {color: #FFFFFF;}
+
+.table, .table A	{color: #000000; font-size: 7.5pt; font-family: Arial, Helvetica, Geneva, sans-serif;}			
+
+.white, .white TD {color: #ffffff; font-size: 7.5pt;font-weight: bold;line-height: 9pt;font-family: Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}	
+.white A	{color: #ffffff;font-weight: bold;line-height: 11px;text-decoration: underline;font-size: 7.5pt;font-family: Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}
+	
+
+.foot {color: #d1d1d1;font-size: 7.5pt;font-family: Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}
+.foot a:link, .foot a:visited	{color: #00009E; font-size: 7.5pt;font-family: Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}
+
+.cap, .cap A {color: #676262; font-size:7.5pt; font-weight:bold; font-family:Verdana, Tahoma, Arial, Helvetica, Geneva, sans-serif;}
+
+.blk, .blk A {color: #000000;font-size: 10px;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+
+.index		{color: #000000;font-size: 13px; font-weight: bold;font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.index A	{color: #000000;font-size: 10px; font-family: Arial, Helvetica, Geneva, sans-serif;}
+
+.lnteam TD, .lnteam TH {color: #FFFFFF; font-size: 12px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+.lnteam a:link {color:#FFFFFF; text-decoration:underline;}
+.lnteam a:visited  {color:#CCCCCC; text-decoration:underline;}
+
+.playernumber {color: #cccccc; font-size: 18px; font-weight: bold; font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.player, .player TD {color: #ffffff; font-size: 18px; font-weight: bold; font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.playerbio, .playerbio TD {color: #ffffff; font-size: 10px; font-weight: bold; font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+.biokey {color: #cccccc; font-size: 10px; font-weight: bold; font-family: Verdana, Arial, Helvetica, Geneva, sans-serif;}
+
+.space5 {font-size:5px; line-height:5px; font-family:Arial, Helvetica;}
+.space10 {font-size:10px; line-height:10px; font-family:Arial, Helvetica;}
+
+.date {
+color: #000000;
+font-size: 12px; 
+font-family: Verdana, Arial, Helvetica, Geneva, sans-serif; 
+font-weight: bold;
+}
+
+.opendate {
+color: #777777;
+font-size: 10px; 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-style: bold;
+}
+
+.wordspacer {
+font-size: 10px; 
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: #f0f0f0; 
+}
+
+.finalscore {
+font-size: 10px; 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+color: #cf0000; 
+font-weight: bold;
+}
+
+.winarrow {
+font-size: 14px; 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+color: #cf0000; 
+font-weight: bold;
+}
+
+.columnrow {
+background-color: #bcbcbc; 
+layer-background-color: #bcbcbc;
+}
+
+.scoresrow {
+background-color: #f0f0f0; 
+layer-background-color: #f0f0f0; 
+}
+
+.highlight {background-color: #000A78;}
+.redzone {background-color: #c90000;}
+
+form {display:inline;}
